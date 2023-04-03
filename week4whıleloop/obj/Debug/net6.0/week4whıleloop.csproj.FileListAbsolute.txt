@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week4loops\week4whıleloop\bin\Debug\net6.0\week4whıleloop.exe
+C:\Users\monster\source\repos\week4loops\week4whıleloop\bin\Debug\net6.0\week4whıleloop.deps.json
+C:\Users\monster\source\repos\week4loops\week4whıleloop\bin\Debug\net6.0\week4whıleloop.runtimeconfig.json
+C:\Users\monster\source\repos\week4loops\week4whıleloop\bin\Debug\net6.0\week4whıleloop.dll
+C:\Users\monster\source\repos\week4loops\week4whıleloop\bin\Debug\net6.0\week4whıleloop.pdb
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.AssemblyInfo.cs
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.dll
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\refint\week4whıleloop.dll
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.pdb
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\week4whıleloop.genruntimeconfig.cache
+C:\Users\monster\source\repos\week4loops\week4whıleloop\obj\Debug\net6.0\ref\week4whıleloop.dll
